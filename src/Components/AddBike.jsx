@@ -61,7 +61,6 @@ function AddBike(){
         return (
           <>
           <AdminNavbar></AdminNavbar>
-          <AdminFooter />
           <div className='addbike-form'>
            <Form>
                 <Form.Group as={Row} controlId="formPlaintextEmail">

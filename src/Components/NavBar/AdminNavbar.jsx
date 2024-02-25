@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./NavBar.css";
 import { GiHamburgerMenu } from "react-icons/gi";
+import '@fortawesome/fontawesome-free/css/all.css';
 
 import { NavLink } from "react-router-dom";
 

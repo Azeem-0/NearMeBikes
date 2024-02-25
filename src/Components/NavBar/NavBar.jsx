@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import DropDown from "../DropDown";
-import Menuitems from "../../Constants/MenuItems";
+import Menuitems from "../../Constants/MenuItems"
+import '@fortawesome/fontawesome-free/css/all.css';
+
 import "./NavBar.css";
 
 function Navbar({ userc }) {

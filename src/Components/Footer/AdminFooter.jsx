@@ -1,5 +1,6 @@
 import React from 'react';
 import "./AdminFooter.css";
+import '@fortawesome/fontawesome-free/css/all.css';
 
 const AdminFooter = () => {
     return (
